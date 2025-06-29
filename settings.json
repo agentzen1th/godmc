@@ -2,7 +2,7 @@
   "bot-account": {
     "username": "GOD",
     "password": "",
-    "type": "mojang"
+    "type": "offline"
   },
 
   "server": {
